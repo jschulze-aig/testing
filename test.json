@@ -1,0 +1,19 @@
+{
+  "feed": {
+    "name": "My Custom Feed",
+    "records": [
+      {
+        "id": 1,
+        "title": "Event 1",
+        "description": "Details about event 1 for Navori display.",
+        "image": "https://example.com/event1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Event 2",
+        "description": "Details about event 2 for Navori display.",
+        "image": "https://example.com/event2.jpg"
+      }
+    ]
+  }
+}
