@@ -2,9 +2,11 @@
     "date__range": "2025-04-23||2025-04-23",
     "count": 11,
     "not__visibility": 2,
-    "success": true,
-    "errors": [],
-    "messages": [],
+    "metadata": {
+        "success": true,
+        "errors": [],
+        "messages": []
+    },
     "items": [
         {
             "id": 54507,
